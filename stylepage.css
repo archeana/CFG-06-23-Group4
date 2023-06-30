@@ -125,10 +125,9 @@ h1{
 
 
 h2{
-  color:white;
+  color:#a4cbda ;
   padding: 20px;
 }
-
 
 p{
   color:#F1E2DA;
@@ -169,8 +168,6 @@ p{
   width: 50%;
   align-items: center;
 }
-
-
 
 /*get involve end*/
 @media (max-width: 768px) {
